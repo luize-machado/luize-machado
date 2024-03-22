@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Luize Machado 😊
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizeemachado/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luize-machado-49bba1246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizee-machado/)
 
 
 (![Luize GitHub stats](https://github-readme-stats.vercel.app/api?username=luize-machado&show_icons=true&theme=dracula)
